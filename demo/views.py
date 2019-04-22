@@ -102,3 +102,7 @@ def forst_charts(request):
 
 def main(request):
     print(123)
+    print(456)
+    print(789)
+    print(190)
+    print(200)
