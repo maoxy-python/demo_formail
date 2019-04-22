@@ -98,3 +98,7 @@ def forst_charts(request):
     pie.add("名字", attr, value, is_label_show=True, is_more_utils=True)
     pie.render('./main.html')
     return HttpResponse()
+
+
+def main(request):
+    print(123)
