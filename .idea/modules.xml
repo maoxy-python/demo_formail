@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/demo_formail.iml" filepath="$PROJECT_DIR$/.idea/demo_formail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hbase_day1/.idea/hbase_day1.iml" filepath="$PROJECT_DIR$/../hbase_day1/.idea/hbase_day1.iml" />
+    </modules>
+  </component>
+</project>
